@@ -1,34 +1,20 @@
-# 🐍 URA302 — Python Programming Lab Assignments
+# URA302 Python Programming Labs
 
-Collection of solved Jupyter Notebook lab worksheets for course **URA302: Python Programming** (B.E. Robotics & Artificial Intelligence).
+A collection of Jupyter notebooks for the URA302 Python Programming course in the Robotics and Artificial Intelligence program at Thapar Institute of Engineering and Technology.
 
-- **Student Name**: Sparsh Agarwal
-- **Branch**: Robotics & AI
-- **Roll Number**: `102323080`
-- **Course Instructor**: Dr. Rohit Kumar Singla
+## Lab assignments
 
----
+- `URA302_(Lab_Assignment_1).ipynb` — formatted input/output, arithmetic, geometry, conditionals, and loops.
+- `URA302_(Lab_Assignment_2).ipynb` — Python collections, sorting, filtering, and comprehensions.
+- `URA302_(Lab_Assignment_3).ipynb` — functions, string processing, filtering, and recursion.
 
-## 📂 Lab Worksheets
-
-| Assignment | Topics Covered | Colab Link |
-| :--- | :--- | :--- |
-| [`URA302_(Lab_Assignment_1).ipynb`](URA302_(Lab_Assignment_1).ipynb) | Formatted string I/O, arithmetic operations, geometry formulas, conditional checks, and loops. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sparsh0106/URA302---Python-Programming/blob/main/URA302_(Lab_Assignment_1).ipynb) |
-| [`URA302_(Lab_Assignment_2).ipynb`](URA302_(Lab_Assignment_2).ipynb) | Python data structures (`list`, `dict`, `set`, `tuple`), sorting, prime filtering, and comprehensions. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sparsh0106/URA302---Python-Programming/blob/main/URA302_(Lab_Assignment_2).ipynb) |
-| [`URA302_(Lab_Assignment_3).ipynb`](URA302_(Lab_Assignment_3).ipynb) | Modular functions, string manipulation, case counting, distinct element filtering, and recursion. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sparsh0106/URA302---Python-Programming/blob/main/URA302_(Lab_Assignment_3).ipynb) |
-
----
-
-## 🚀 Running Locally
+## Run the notebooks
 
 ```bash
 git clone https://github.com/sparsh0106/URA302---Python-Programming.git
 cd URA302---Python-Programming
+python -m pip install jupyter
 jupyter notebook
 ```
 
----
-
-## 👤 Author
-
-**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
+Open an assignment notebook and run its cells in order. These materials are coursework examples; review the course's collaboration and submission rules before reusing solutions.
